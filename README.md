@@ -4,7 +4,7 @@ I'm **Gabriel Cazarim** (he/him). I'm a Front-End Developer, bachelor’s degree
 
 ## 📖 My Skills
 
-* 💻 HTML, CSS, Java Script, jQuery, React.js, Python, MySql
+* 💻 HTML, CSS, JavaScript, jQuery, React.js, Python, MySql
 * 📱 React Native
 * 🌱 Angular
 * 🖊️ Portuguese (Native), English (Advanced)
