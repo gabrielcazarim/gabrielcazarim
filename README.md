@@ -1,6 +1,6 @@
 # Hi there, I'm Gabriel Cazarim!
 
-I'm **Gabriel Cazarim** (he/him). I'm a Front-End Developer, bachelor’s degree in Information Systems, living now in São Paulo, Brazil.
+I'm **Gabriel Cazarim**. I'm a Front-End Developer, bachelor’s degree in Information Systems, living now in São Paulo, Brazil.
 
 ## 📖 My Skills
 
