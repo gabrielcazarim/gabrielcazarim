@@ -5,6 +5,8 @@
 
 *   📍  São Paulo, SP
 *   🖥️  Veja o meu [Portfólio](http://gabrielcazarim.netlify.app)
+*   🎓  Desenvolvimento Mobile (Cursando)
+*   🎓  Sistemas de Informação e Análise e Desenvolvimento de Sistemas (Formado)
 
 <h3 align="left">Contate-me:</h3>
 <p align="left">
