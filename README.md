@@ -8,4 +8,3 @@ I'm **Gabriel Cazarim**. I'm a Front-End Developer, bachelor’s degree in Infor
 * 📱 React Native
 * 🖊️ Portuguese (Native), English (Advanced)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cc506a0d755ccbebd7e1a5?variant=dark)](https://roadmap.sh)
