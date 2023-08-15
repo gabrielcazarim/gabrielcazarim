@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Gabriel Cazarim</h1>
+<h1 align="center">Olá, eu sou o Gabriel Cazarim</h1>
 <h3 align="center">Desenvolvedor Web</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcazarim&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielcazarim" /> </p>
